@@ -12,5 +12,6 @@ Lenguaje Dart Flutter, Nivel principiante, navegación entre 3 paginas utilizand
 
 ## pantallas en android
 ![alt text](image-5.png)
-![alt text](image-7.png)
+<img width="278" height="475" alt="image" src="https://github.com/user-attachments/assets/4f5a8ff0-024e-4f65-81d4-08651c67001b" />
+
 ![alt text](image-8.png)
