@@ -1,16 +1,16 @@
-# myapp
+# Navegacion entre paginas con Flutter
+# Ailin Gallegos Gpo 6J
+# mi prompt o preguntas AI
 
-A new Flutter project.
+Lenguaje Dart Flutter, Nivel principiante, navegación entre 3 paginas utilizando rutas nombradas, desde main llamar a la pagina1, en la pagina en appbar mostrar el texto "inicio Gallegos 6 J" en color blanco, color de fondo cafe, iconos blancos, en body un contenedor redondeado color beige 200 por 200 con texto negro y centrado, y un boton de color amarillo texto negro para seleccionar pagina 2, en la pagina 2 un appbar con texto "Segunda pagina 6 J" en color rojo, fondo negro y los iconos en blanco, en body una imagen desde la red y un boton para avanzar a la pagina 3, en la pagina 3 en appbar un texto color negro "pagina 3 El Gallegos", color de fondo rosa claro, todo en un solo archivo, elegante y atractivo
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## pantallas en web
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## pantallas en android
+![alt text](image-5.png)
+![alt text](image-7.png)
+![alt text](image-8.png)
